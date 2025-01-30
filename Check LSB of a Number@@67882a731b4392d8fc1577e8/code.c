@@ -8,7 +8,7 @@ int main() {
 
     }
     else{
-        printf("Not Ser");
+        printf("Not Set");
     }
     
     return 0;
